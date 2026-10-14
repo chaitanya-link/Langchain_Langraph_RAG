@@ -1,0 +1,7 @@
+[
+  {"name": "google", "kind": "http", "url": "https://www.google.com"},
+  {"name": "github", "kind": "http", "url": "https://github.com"},
+  {"name": "dns", "kind": "tcp", "host": "8.8.8.8", "port": 53},
+  {"name": "bad-site", "kind": "http", "url": "https://this-does-not-exist-12345.com"},
+  {"name": "google", "kind": "http", "url": "https://www.google.com"}
+]
